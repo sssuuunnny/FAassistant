@@ -105,7 +105,7 @@
   -moz-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.23921568627451);
   -webkit-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.23921568627451);
   box-shadow:0px 2px 4px rgba(0, 0, 0, 0.23921568627451);
-  font-family:'思源黑体 CN Medium', '思源黑体 CN';
+  font-family:'思源黑体 CN Medium', '思源黑体 CN Regular', '思源黑体 CN';
   font-weight:500;
   font-style:normal;
   color:rgba(255, 255, 255, 0.866666666666667);
@@ -118,7 +118,7 @@
   top:74px;
   width:360px;
   height:56px;
-  font-family:'思源黑体 CN Medium', '思源黑体 CN';
+  font-family:'思源黑体 CN Medium', '思源黑体 CN Regular', '思源黑体 CN';
   font-weight:500;
   font-style:normal;
   color:rgba(255, 255, 255, 0.866666666666667);
@@ -194,7 +194,7 @@
   -moz-box-shadow:0px 2px 2px rgba(0, 0, 0, 0.23921568627451);
   -webkit-box-shadow:0px 2px 2px rgba(0, 0, 0, 0.23921568627451);
   box-shadow:0px 2px 2px rgba(0, 0, 0, 0.23921568627451);
-  font-family:'思源黑体 CN Medium', '思源黑体 CN';
+  font-family:'思源黑体 CN Medium', '思源黑体 CN Regular', '思源黑体 CN';
   font-weight:500;
   font-style:normal;
 }
@@ -205,7 +205,7 @@
   top:328px;
   width:83px;
   height:36px;
-  font-family:'思源黑体 CN Medium', '思源黑体 CN';
+  font-family:'思源黑体 CN Medium', '思源黑体 CN Regular', '思源黑体 CN';
   font-weight:500;
   font-style:normal;
 }
@@ -232,7 +232,7 @@
   -moz-box-shadow:0px 0px 2px rgba(40, 40, 40, 0.117647058823529);
   -webkit-box-shadow:0px 0px 2px rgba(40, 40, 40, 0.117647058823529);
   box-shadow:0px 0px 2px rgba(40, 40, 40, 0.117647058823529);
-  font-family:'思源黑体 CN Medium', '思源黑体 CN';
+  font-family:'思源黑体 CN Medium', '思源黑体 CN Regular', '思源黑体 CN';
   font-weight:500;
   font-style:normal;
 }
@@ -243,7 +243,7 @@
   top:328px;
   width:54px;
   height:36px;
-  font-family:'思源黑体 CN Medium', '思源黑体 CN';
+  font-family:'思源黑体 CN Medium', '思源黑体 CN Regular', '思源黑体 CN';
   font-weight:500;
   font-style:normal;
 }
@@ -867,7 +867,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:112px;
+  width:132px;
   height:32px;
   background:inherit;
   background-color:rgba(0, 0, 0, 1);
@@ -888,7 +888,7 @@
   position:absolute;
   left:520px;
   top:372px;
-  width:112px;
+  width:132px;
   height:32px;
   opacity:0.6;
   font-family:'思源黑体 CN';
@@ -900,7 +900,7 @@
   position:absolute;
   left:2px;
   top:8px;
-  width:108px;
+  width:128px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -909,7 +909,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:73px;
+  width:87px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -928,7 +928,7 @@
   position:absolute;
   left:539px;
   top:378px;
-  width:73px;
+  width:87px;
   height:21px;
   font-family:'思源黑体 CN';
   font-weight:400;
@@ -940,7 +940,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:73px;
+  width:87px;
   white-space:nowrap;
 }
 #u321 {

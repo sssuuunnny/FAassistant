@@ -84,8 +84,8 @@
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .title {
-  font-family:'Roboto';
-  font-weight:410;
+  font-family:'Roboto Medium', 'Roboto';
+  font-weight:500;
   font-style:normal;
   font-size:20px;
   color:rgba(0, 0, 0, 0.866666666666667);
@@ -141,22 +141,22 @@
   color:#FFFFFF;
 }
 .float_button {
-  font-family:'Roboto';
-  font-weight:410;
+  font-family:'Roboto Medium', 'Roboto';
+  font-weight:500;
   font-style:normal;
   font-size:24px;
   color:#FFFFFF;
 }
 .flat_button {
-  font-family:'Roboto';
-  font-weight:410;
+  font-family:'Roboto Medium', 'Roboto';
+  font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#2196F3;
 }
 .raised_button {
-  font-family:'Roboto';
-  font-weight:410;
+  font-family:'Roboto Medium', 'Roboto';
+  font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
@@ -164,8 +164,8 @@
 .status_bar_light {
 }
 .title_bar_light {
-  font-family:'Roboto';
-  font-weight:410;
+  font-family:'Roboto Medium', 'Roboto';
+  font-weight:500;
   font-style:normal;
   font-size:20px;
   color:rgba(0, 0, 0, 0.866666666666667);
@@ -174,8 +174,8 @@
 .content_bg_light {
 }
 .dialog_light {
-  font-family:'Roboto';
-  font-weight:410;
+  font-family:'Roboto Medium', 'Roboto';
+  font-weight:500;
   font-style:normal;
   font-size:20px;
   color:rgba(0, 0, 0, 0.866666666666667);
@@ -191,6 +191,15 @@
 .card {
 }
 .shape {
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .image {
 }
